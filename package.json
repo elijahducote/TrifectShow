@@ -1,0 +1,17 @@
+{
+  "name": "trifectshow",
+  "version": "1.0.0",
+  "main": "app.htm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "CC0",
+  "description": "",
+  "devDependencies": {
+    "@hono/node-server": "^1.13.7",
+    "axios": "^1.7.8",
+    "dotenv": "^16.4.5",
+    "hono": "^4.6.12"
+  }
+}
